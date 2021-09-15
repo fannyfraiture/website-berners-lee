@@ -22,10 +22,9 @@ header img {
 header {
     background-color: white;
     width: 600px;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top: 2%;
-    margin-bottom: 35px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 25px;
@@ -63,8 +62,7 @@ h2 {
 ul {
     background-color: white;
     width: 600px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin: 0 auto;
     margin-top: 25px;
     margin-bottom: 25px;
     padding-top: 65px;
@@ -102,10 +100,9 @@ li i {
 section {
     background-color: white;
     width: 600px;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 25px;
